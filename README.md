@@ -16,6 +16,7 @@ This project uses **linear regression** to predict house prices based on feature
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
+- Jupyter Notebook
 
 ## 📊 Outcome
 
